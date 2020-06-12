@@ -12,11 +12,13 @@ A quick example how to use the __ICD_10__ module.
 from ICD_10 import ICD_10 as icd
 
 # search for "Humerusfraktur"
-ret_list=icd.search_icd_intelligent("Humerus") 
+ret_list=icd.search_icd_intelligent("Humerusfraktur") 
 
 print(ret_list)
 ```
-The application example icd-example.py creates a simple user interface to search for ICD-10 codes using PySimpleGUI.
+
+
+The application example icd_example.py creates a simple user interface to search for ICD-10 codes using PySimpleGUI.
 
 
 Have fun!
