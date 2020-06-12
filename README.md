@@ -18,7 +18,7 @@ print(ret_list)
 ```
 
 
-The application example icd_example.py creates a simple user interface to search for ICD-10 codes using PySimpleGUI.
+The application-example icd_example.py creates a simple user interface to search for ICD-10 codes using PySimpleGUI.
 
 
 Have fun!
