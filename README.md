@@ -1,6 +1,6 @@
 # simple-ICD
 
-Simple-ICD is a simple Python-library without the bells and whistles for the encoding of diagnoses according to the 10th revision of the International Statistical Classification Of Diseases, German Modification (ICD-10-GM).
+Simple-ICD is a simple Python-library without bells and whistles for the encoding of diagnoses according to the 10th revision of the International Statistical Classification Of Diseases, German Modification (ICD-10-GM).
 This Python-module emphasizes ease of use, giving clinicians and researchers an a simple tool to encode diagnoses.
 
 ## Using ICD_10.py
